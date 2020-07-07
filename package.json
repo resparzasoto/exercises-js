@@ -1,0 +1,32 @@
+{
+  "name": "exercises-js",
+  "version": "1.0.0",
+  "description": "Ejercicios de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "exercise:1": "node src/exercise1.js",
+    "exercise:2": "node src/exercise2.js",
+    "exercise:3": "node src/exercise3.js",
+    "exercise:4": "node src/exercise4.js",
+    "exercise:5": "node src/exercise5.js",
+    "exercise:6": "node src/exercise6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resparzasoto/exercises-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "npm"
+  ],
+  "author": "@resparzasoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resparzasoto/exercises-js/issues"
+  },
+  "homepage": "https://github.com/resparzasoto/exercises-js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
